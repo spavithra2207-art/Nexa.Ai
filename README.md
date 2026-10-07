@@ -30,3 +30,5 @@ User -> UI (Amplify) -> API Gateway -> Lambda -> Bedrock (LLM) -> DynamoDB/S3 ->
 5. Triggers automated workflows if needed
 
 Built for Hackathon 2026 by @spavithra2207-artn
+   Live URL: https://spavithra2207-art.github.io/Nexa.Ai/
+   Demo: https://spavithra2207-art.github.io/Nexa.Ai/
